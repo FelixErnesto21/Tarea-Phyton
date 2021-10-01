@@ -16,4 +16,4 @@ lista = (lista[1:])
 for j in lista:
     print(j)
 
-input()
+
